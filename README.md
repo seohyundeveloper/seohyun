@@ -1,1 +1,1 @@
-연습페이지 뷰입니다.
+포트폴리오(http://seoandji.dothome.co.kr/portfolio)
